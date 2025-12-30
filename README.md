@@ -24,7 +24,7 @@ O Chat-Bot V1 foi criado para simplificar a gestão de espaços físicos, permit
 * ``app/Views``: Interface visual do chat-bot.
 * ``public/assets``: Arquivos CSS e JS customizados.
 
-🚀 Como instalar
+# 🚀 Como instalar
 1. Clone o repositório.
 2. Configure o arquivo `.env` com as credenciais do seu banco de dados local.
 3. Execute as migrations:
